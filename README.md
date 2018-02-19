@@ -6,9 +6,6 @@ Compilation:
 On Linux/MAC OS:
 Type the command "make" on a terminal, in the folder where the sources and the makefile are located
 
-On Windows: 
-I have no idea how it works, who cares anyway, no true computer scientist uses windows!
-
 
 Execution:
 
